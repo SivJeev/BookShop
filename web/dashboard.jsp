@@ -141,17 +141,17 @@
                         
                         <li class="nav-item">
                             <a class="nav-link" href="supplier?action=list">
-                                <i class="fas fa-book me-1"></i>Supplier
+                                <i class="fas fa-truck me-1"></i>Supplier
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="pos">
-                                <i class="fas fa-book me-1"></i>POS
+                                <i class="fas fa-cash-register me-2"></i>POS
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="reservation">
-                                <i class="fas fa-book me-1"></i>Reservation
+                                <i class="fas fa-shopping-cart me-1"></i>Reservation
                             </a>
                         </li>
                     </ul>
@@ -336,7 +336,7 @@
                             <i class="fas fa-book fa-3x mb-3"></i>
                             <h5 class="card-title">Manage Books</h5>
                             <p class="card-text">Add, update, and organize your book inventory.</p>
-                            <a href="#" onclick="alert('Books management coming soon!')" class="btn btn-light">
+                            <a href="book?action=list" onclick="alert('Books management coming soon!')" class="btn btn-light">
                                 <i class="fas fa-arrow-right me-2"></i>View Books
                             </a>
                         </div>
@@ -349,7 +349,7 @@
                             <i class="fas fa-chart-bar fa-3x mb-3"></i>
                             <h5 class="card-title">View Reports</h5>
                             <p class="card-text">Access sales reports and analytics.</p>
-                            <a href="#" onclick="alert('Reports coming soon!')" class="btn btn-light">
+                            <a href="reports.jsp" onclick="alert('Reports coming soon!')" class="btn btn-light">
                                 <i class="fas fa-arrow-right me-2"></i>View Reports
                             </a>
                         </div>
@@ -362,7 +362,7 @@
                             <i class="fas fa-boxes fa-3x mb-3"></i>
                             <h5 class="card-title">Inventory</h5>
                             <p class="card-text">Manage book inventory and stock levels.</p>
-                            <a href="#" onclick="alert('Inventory management coming soon!')" class="btn btn-light">
+                            <a href="book?action=list" onclick="alert('Inventory management coming soon!')" class="btn btn-light">
                                 <i class="fas fa-arrow-right me-2"></i>View Inventory
                             </a>
                         </div>

@@ -3,38 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/index.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/dao/UserDAO.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/AuthServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/dashboard.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/dao/BookDAO.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/RoleServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/BookServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/OrderServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/PosServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/PurchaseServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/role_list.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/role-permissions.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/supplier-add.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/role-edit.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/role-add.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/dao/RoleDAO.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/help.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/build/web/order-view.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/build/web/pos-view.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/model/Book.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/pos.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/purchase-add.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/pos-view.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/dao/SaleDAO.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/model/Sale.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/model/SaleProduct.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/util/DBConnection.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/order-list.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/reservations.jsp</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/java/servlet/ReservationServlet.java</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/web/META-INF/context.xml</file>
-            <file>file:/D:/Varanan-Importants/Hajee/BookShop2/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/index.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/dashboard.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/book-view.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/reports.jsp</file>
         </group>
     </open-files>
 </project-private>
