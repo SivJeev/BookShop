@@ -93,8 +93,8 @@
 // Email sending utility
     private void sendEmailNotification(String toEmail, String customerName, String subject, String message) {
         // SMTP Configuration - Update these with your Gmail credentials
-        final String fromEmail = "vaaranan8@gmail.com"; // Your Gmail address
-        final String password = "bflw vdao hpat crfg";     // Your Gmail App Password
+        final String fromEmail = "hajeepanasivanesan10@gmail.com"; // Your Gmail address
+        final String password = "vmra zjln xmpz fhwr";     // Your Gmail App Password
         final String smtpHost = "smtp.gmail.com";
         final String smtpPort = "587";
 
