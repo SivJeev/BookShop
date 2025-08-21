@@ -8,6 +8,10 @@
             <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/dashboard.jsp</file>
             <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/book-view.jsp</file>
             <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/web/reports.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/src/java/model/Book.java</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/src/java/servlet/BookServlet.java</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/PC/Desktop/gitChanges/old/BookShop/src/java/util/FileUploadUtil.java</file>
         </group>
     </open-files>
 </project-private>
